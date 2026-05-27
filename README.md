@@ -54,12 +54,23 @@ Sato, Mirai — Business Analyst
 
 Abejay, Franz Jedd — UI/UX Designer
 
-## 📁 Project Structure
+---
+
+## Project Structure
+
 public/ → Frontend entry points
-src/ → Backend logic modules
+
 database/ → SQL schema
-css/js/ → Assets
+
+css/ → Stylesheets
+
+html/ → Interface templates
+
+public/assets/ → Static assets
+
 docs/ → Documentation
+
+---
 
 ## Notes
 Uses feature branching workflow
