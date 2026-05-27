@@ -34,8 +34,8 @@ Barangay Clearance and Certificate Management System
 | File/module header comment | Multi-line comment documenting module purpose and architecture tier. Must describe module purpose and system layer (frontend/backend/database) |
 | Function/method doc comment | Structural PHPDoc standard summarizing inputs, outputs, behaviors |
 | Inline comments | Only for non-obvious logic calculations or contextual workflows |
-| TODO format | `// TODO: [Author Name] - description` |
-| Comment language | Professional English |
+| TODO format | `// TODO: description` |
+| Comment language | English (Professional / Technical phrasing) |
 
 ---
 
